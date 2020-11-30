@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**HarshilSiyani/harshilsiyani**
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on **COURSE CREATOR** (My solution to improve education online)
 - 🌱 I’m currently learning **UDACITY FULL STACK DEVELOPER COURSE**
 - 👯 I’m looking to collaborate on **Your project**
